@@ -1,7 +1,7 @@
 ## Hi 🖐, I'm Cyrus
 
 # 💫 About Me:
-⛩ I'm currently learning on Go
+⛩ I'm currently learning on Go<br>
 👨‍💻 I deal with cyber security and software
 
 # 💻 Tech Stack:
