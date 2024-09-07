@@ -1,2 +1,2 @@
-## Hi 🖐, I'm Pharos
+## Hi 🖐, I'm Cyrus
 
